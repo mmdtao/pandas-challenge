@@ -8,5 +8,6 @@ From the calculations, it is clear that the largest schools had significantly lo
 <img width="764" alt="Screenshot 2023-04-13 at 11 20 05 PM" src="https://user-images.githubusercontent.com/114324871/231941121-545089e6-2593-40bd-9f64-76459a787447.png">
 
 Another major conclusion was that Charter schools faired much better than District schools in both overall passing % and especially math scores (shown below).
+
 <img width="715" alt="Screenshot 2023-04-13 at 11 20 30 PM" src="https://user-images.githubusercontent.com/114324871/231941341-645202d1-bfae-43c7-896c-d5e4aadd3386.png">
 
